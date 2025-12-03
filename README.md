@@ -95,7 +95,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <ul>
-    <li>
+    <li valign="middle">
       <img align="left" src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-gmail-logo-png-png-image_4839469.jpg" alt="gmail" width="40" height="40" />
       yw.thammatron2005@gmail.com (for work only)
       <br clear="left"/>
