@@ -1,7 +1,7 @@
 <h1 align="center">Hey there. Yew is here 😎</h1>
 <h3 align="center">Some cool guy and frontend developer from Thailand</h3>
 
-
+<h3 align="left">Preferences</h3>
 - ⚙️ I’m currently working on [Meeting Manager Discord Bot](https://github.com/YwThammatorn/Meeting-Manager)
 - ❤️‍🔥 I found myself enthusiastic about web development especially on **UX/UI design and frontend development**
 - 😅 I experienced and could also work as a **full-stack developer** but that's not my cup of tea
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Angular, Vue and Typescript**
 - ⚡ Fun fact **I don't know**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
