@@ -98,6 +98,7 @@
     <a href="https://fb.com/thammatorn tanasamanchoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thammatorn tanasamanchoke" height="30" width="40" /></a>
     yw.thammatron2005@gmail.com (for work only)
   <br clear="left"/>
+  <br/>
 <a href="https://instagram.com/yw.thammatorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yw.thammatorn" height="30" width="40" /></a>
   Thammatorn Tanasamanchoke
   <br clear="left"/>
