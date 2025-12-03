@@ -95,11 +95,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-      <img align="left" src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-gmail-logo-png-png-image_4839469.jpg" alt="gmail" width="40" height="40" />
+      <img align="left" src="https://fontawesome.com/icons/envelope?f=classic&s=regular" alt="gmail" width="40" height="40" />
       yw.thammatron2005@gmail.com (for work only)
       <br clear="left"/>
       <a href="https://web.facebook.com/thrrm.thr.thna.sman.chokh/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" alt="facebook" width="40" height="40" />
+        <img src="https://fontawesome.com/icons/square-facebook?f=brands&s=solid" alt="facebook" width="40" height="40" />
       </a>
       Thammatorn Tanasamanchoke
       <br clear="left"/>
