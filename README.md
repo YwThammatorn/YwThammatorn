@@ -2,15 +2,10 @@
 <h3 align="center">Some cool guy and frontend developer from Thailand</h3>
 
 - ⚙️ I’m currently working on [Meeting Manager Discord Bot](https://github.com/YwThammatorn/Meeting-Manager)
-  
 - ❤️‍🔥 I found myself enthusiastic about web development especially on **UX/UI design and frontend development**
-
 - 😅 I experienced and could also work as a **full-stack developer** but that's not my cup of tea
-  
 - 😍 Computer Networks and Security are my another interests
-
 - 🌱 I’m currently learning **Angular, Vue and Typescript**
-
 - ⚡ Fun fact **I don't know**
 
 <h3 align="left">Connect with me:</h3>
