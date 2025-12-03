@@ -98,7 +98,7 @@
     <li>
       <img align="left" src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-gmail-logo-png-png-image_4839469.jpg" alt="gmail" width="40" height="40" />
       <br clear="left"/>
-      <p>yw.thammatron2005@gmail.com (for work only)</p>
+      yw.thammatron2005@gmail.com (for work only)
     </li>
   </ul>
   
