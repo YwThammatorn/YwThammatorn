@@ -1,4 +1,4 @@
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/246d15ad-400f-4373-b203-6e8bb71aa2be" /><h1 align="center">Hey there. Yew is here 😎</h1>
+<h1 align="center">Hey there. Yew is here 😎</h1>
 <h3 align="center">Some cool guy and frontend developer from Thailand</h3>
 
 
@@ -95,14 +95,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-      <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/68603459-0302-4f01-8b02-30a80198b0b2" />
-      yw.thammatron2005@gmail.com (for work only)
-      <br clear="left"/>
-      <a href="https://web.facebook.com/thrrm.thr.thna.sman.chokh/" target="_blank" rel="noreferrer">
-        <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8fa4bc9e-d35f-4d3c-9f22-074bab4fc4d4" />
-      </a>
-      Thammatorn Tanasamanchoke
-      <br clear="left"/>
+    <a href="https://fb.com/thammatorn tanasamanchoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thammatorn tanasamanchoke" height="30" width="40" /></a>
+    yw.thammatron2005@gmail.com (for work only)
+  <br clear="left"/>
+<a href="https://instagram.com/yw.thammatorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yw.thammatorn" height="30" width="40" /></a>
+  Thammatorn Tanasamanchoke
+  <br clear="left"/>
 </p>
 <!--
 **YwThammatorn/YwThammatorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
