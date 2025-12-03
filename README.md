@@ -41,7 +41,10 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
   </a>
-  
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png" alt="nodejs" width="40" height="40" />
   </a>
@@ -78,10 +81,7 @@
    <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer">
     <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" alt="stm32cubeide" width="40" height="40" />
   </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
+
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
