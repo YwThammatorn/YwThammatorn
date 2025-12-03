@@ -8,17 +8,6 @@
 - 🌱 I’m currently learning **Angular, Vue and Typescript**
 - ⚡ Fun fact **I don't know**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <ul>
-    <li align="left">
-      <img src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-gmail-logo-png-png-image_4839469.jpg" alt="gmail" width="40" height="40" />
-      <p>yw.thammatron2005@gmail.com (for work only)</p>
-    </li>
-  </ul>
-  
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -101,6 +90,18 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40" />
   </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <ul>
+    <li>
+      <img align="left" src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-gmail-logo-png-png-image_4839469.jpg" alt="gmail" width="40" height="40" />
+      <br clear="left"/>
+      <p>yw.thammatron2005@gmail.com (for work only)</p>
+    </li>
+  </ul>
+  
 </p>
 <!--
 **YwThammatorn/YwThammatorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
