@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <ul>
+  <ul align="left">
     <li>
       <img src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-gmail-logo-png-png-image_4839469.jpg" alt="gmail" width="40" height="40" />
       <p>- yw.thammatron2005@gmail.com (for work only)</p>
