@@ -95,11 +95,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://fb.com/thammatorn tanasamanchoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thammatorn tanasamanchoke" height="30" width="40" /></a>
+  <a href="https://workspace.google.com/gmail/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="gmail" height="30" width="40" /></a>
+    yw.thammatorn2005@gmail.com (for work)
+  <br clear="left"/>
+  <br/>
+    <a href="https://fb.com/thammatorn tanasamanchoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
     Thammatorn Tanasamanchoke
   <br clear="left"/>
   <br/>
-<a href="https://instagram.com/yw.thammatorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yw.thammatorn" height="30" width="40" /></a>
+<a href="https://instagram.com/yw.thammatorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
   yw.thammatorn
   <br clear="left"/>
 </p>
