@@ -46,7 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png" alt="nodejs" width="40" height="40" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174935.png" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://images.tute.io/media/topics/icons/express-js.png" alt="express" width="40" height="40" />
