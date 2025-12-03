@@ -105,7 +105,7 @@
       <a href="https://web.facebook.com/thrrm.thr.thna.sman.chokh/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" alt="linux" width="40" height="40" />
       </a>
-      thammatorn tanasamanchoke
+      Thammatorn Tanasamanchoke
       <br clear="left"/>
     </li>
   </ul>
