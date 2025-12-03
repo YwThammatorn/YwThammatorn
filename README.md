@@ -1,7 +1,7 @@
 <h1 align="center">Hey there. Yew is here 😎</h1>
 <h3 align="center">Some cool guy and frontend developer from Thailand</h3>
 
-
+- 
 - ⚙️ I’m currently working on [Meeting Manager Discord Bot](https://github.com/YwThammatorn/Meeting-Manager)
 - ❤️‍🔥 I found myself enthusiastic about web development especially on **UX/UI design and frontend development**
 - 😅 I experienced and could also work as a **full-stack developer** but that's not my cup of tea
@@ -99,6 +99,13 @@
     <li valign="middle">
       <img align="left" src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-gmail-logo-png-png-image_4839469.jpg" alt="gmail" width="40" height="40" />
       yw.thammatron2005@gmail.com (for work only)
+      <br clear="left"/>
+    </li>
+    <li valign="middle">
+      <a href="https://web.facebook.com/thrrm.thr.thna.sman.chokh/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" alt="linux" width="40" height="40" />
+      </a>
+      thammatorn tanasamanchoke
       <br clear="left"/>
     </li>
   </ul>
