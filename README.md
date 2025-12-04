@@ -101,7 +101,7 @@
   </p>
   
   <p align="center">
-    <a href="https://fb.com/thammatorn tanasamanchoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+    <a href="https://web.facebook.com/thrrm.thr.thna.sman.chokh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
     Thammatorn Tanasamanchoke
   </p>
 
