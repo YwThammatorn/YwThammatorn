@@ -94,7 +94,7 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
   <p align="left">
     <a href="https://workspace.google.com/gmail/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="gmail" height="30" width="40" /></a>
     yw.thammatorn2005@gmail.com (for work)
